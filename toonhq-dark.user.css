@@ -333,4 +333,23 @@
     .select2-container--default.select2-container--disabled .select2-selection--single {
         background-color: var(--gray);
     }
+
+    .table > thead > tr > td.info,
+    .table > tbody > tr > td.info,
+    .table > tfoot > tr > td.info,
+    .table > thead > tr > th.info,
+    .table > tbody > tr > th.info,
+    .table > tfoot > tr > th.info,
+    .table > thead > tr.info > td,
+    .table > tbody > tr.info > td,
+    .table > tfoot > tr.info > td,
+    .table > thead > tr.info > th,
+    .table > tbody > tr.info > th,
+    .table > tfoot > tr.info > th {
+        background-color: inherit;
+    }
+    
+    .home-content section img {
+        box-shadow: none !important;
+    }
 }
