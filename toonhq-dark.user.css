@@ -352,4 +352,23 @@
     .home-content section img {
         box-shadow: none !important;
     }
+
+    .dropdown-menu {
+        background-color: var(--darker) !important;
+    }
+
+    .dropdown-menu > li > a {
+        color: var(--lighter);
+    }
+
+    .dropdown-menu > li > a:hover,
+    .dropdown-menu > li > a:focus {
+        background-color: #275986 !important;
+    }
+
+    .dropdown-menu > .active > a,
+    .dropdown-menu > .active > a:hover,
+    .dropdown-menu > .active > a:focus {
+        background-color: #122948 !important;
+    }
 }
