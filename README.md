@@ -1,5 +1,9 @@
 # toonhq-dark
 
+**NOTICE:** <https://toonhq.org/> has been updated with an all-new layout. This
+usercss no longer works for the current version of toonhq. Maybe try [Dark
+Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)?
+
 toonhq makes my eyes hurt
 
 ## install
