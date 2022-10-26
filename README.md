@@ -1,10 +1,10 @@
 # toonhq-dark
 
-**NOTICE:** <https://toonhq.org/> has been updated with an all-new layout. This
-usercss no longer works for the current version of toonhq. Maybe try [Dark
-Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)?
-
 toonhq makes my eyes hurt
+
+**this is now updated for the new toonhq**, which is virtually mandatory for
+modern TTR. i currently use it to spare my eyeballs but it is certainly not
+complete (nor particularly beautiful, but whatever).
 
 ## install
 
@@ -20,8 +20,8 @@ at your option). for the relevant legal text, see
 [https://creativecommons.org/licenses/by-sa/4.0/legalcode][CC BY-SA 4.0], or
 the [LICENSE](./LICENSE) file for a plaintext version
 
-[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png
-"CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "CC BY-SA
+4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
 
 [usercss]: https://github.com/JonathanHelianthicusDoe/toonhq-dark/raw/master/toonhq-dark.user.css
 [CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
