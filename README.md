@@ -1,10 +1,10 @@
 # toonhq-dark
 
-toonhq makes my eyes hurt
+[toonhq](https://toonhq.org/) makes my eyes hurt
 
 **this is now updated for the new toonhq**, which is virtually mandatory for
 modern TTR. i currently use it to spare my eyeballs but it is certainly not
-complete (nor particularly beautiful, but whatever).
+complete (nor particularly beautiful, but whatever)
 
 ## install
 
