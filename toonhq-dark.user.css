@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toonhq-dark
 @namespace      JonathanHelianthicusDoe
-@version        0.2.0
+@version        0.2.1
 @description    toonhq makes my eyes hurt
 @license        CC-BY-SA-4.0
 @author         Dr. Jonathan Helianthicus Doe, IV
@@ -269,5 +269,14 @@
 
     .dropdown--text button.dropdown-toggle {
         color: #fff !important;
+    }
+
+    .list-group-item {
+        border: 1px solid rgba(255, 255, 255, 0.125);
+        background-color: #222426;
+    }
+
+    .no-inv.no-inv {
+        color: #fff;
     }
 }
