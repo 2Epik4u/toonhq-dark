@@ -279,4 +279,8 @@
     .no-inv.no-inv {
         color: #fff;
     }
+    .tt-card {
+        background: #333537;
+        color: #000;
+    }
 }
